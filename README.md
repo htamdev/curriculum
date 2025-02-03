@@ -1,4 +1,4 @@
-<!-- Currículo sob desenvolvimento -->
+! Currículo sob desenvolvimento !
 
 Olá, me chamo Matheus, apaixonado por tecnologia, com habilidades front e back-end tendo como especialidade, Python.
 
